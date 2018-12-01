@@ -1,0 +1,15 @@
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\bin\Debug\WPFIntro.exe.config
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\bin\Debug\WPFIntro.exe
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\bin\Debug\WPFIntro.pdb
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.csprojAssemblyReference.cache
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\MainWindow.g.cs
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\App.g.cs
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro_MarkupCompile.cache
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro_MarkupCompile.lref
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\MainWindow.baml
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.g.resources
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.Properties.Resources.resources
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.csproj.GenerateResource.cache
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.exe
+C:\Users\fabia\Desktop\Projects\WPFIntro\WPFIntro\obj\Debug\WPFIntro.pdb
